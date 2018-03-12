@@ -3,6 +3,9 @@ This pack contains all swiss flags in KSP format.
 
 ![All swiss flags](swissFlags.png)
 
+## How to use
+Simply download the files and merge with your GameData folder. You can also pick flags of your choices and add them manually to GameData/Squad/Flags.
+
 ## A word about authenticity
 The KSP format for flags doesn't really match with real flags so I had to ajust them as clean as I could. Some of them might have two or three pixels cut here and there, generally because the items on the concerned flag is close to the edge. It should'nt be that much visible though.
 
