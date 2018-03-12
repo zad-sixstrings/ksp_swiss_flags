@@ -13,3 +13,6 @@ The KSP format for flags doesn't really match with real flags so I had to ajust 
 I don't see any reason to license this flag pack because I'm not the one who made the original flags. I just downloaded them and adjusted to the KSP format.
 
 Use them as you wish. Credits would be apreciated. That's all folks.
+
+### SpaceDock
+You can also find this pack on [SpaceDock](https://spacedock.info/mod/1737/Swiss%20flags%20pack)
