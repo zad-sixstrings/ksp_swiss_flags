@@ -1,7 +1,7 @@
 # Flags of Switzerland for KSP
 This pack contains all swiss flags in KSP format.
 
-![All swiss flags](swissFlags.png)
+![swissFlags](https://github.com/zad-sixstrings/ksp_swiss_flags/assets/14813374/b714e64e-d66c-4788-a1b4-cb0bfd8b4915)
 
 ## How to use
 Simply download the files and merge with your GameData folder. You can also pick flags of your choice and add them manually to GameData/Squad/Flags.
